@@ -43,6 +43,16 @@
 					<key>Replace</key>
 					<data>SERFRg==</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>Fix 300-series RTC Bug</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>oAqTU1RBUwE=</data>
+					<key>Replace</key>
+					<data>oAqRCv8L//8=</data>
+				</dict>
 			</array>
 		</dict>
 		<key>DropTables</key>
