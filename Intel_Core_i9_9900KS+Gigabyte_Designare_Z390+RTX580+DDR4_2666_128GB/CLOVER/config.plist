@@ -158,10 +158,8 @@
 			<key>Tool</key>
 			<true/>
 		</dict>
-		<key>ScreenResolution</key>
-		<string>1400x1050</string>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>Catalina</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
