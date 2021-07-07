@@ -3,14 +3,14 @@ I've built a Big Sur machine, and I'll expose the record.
 
 # Parts configuration
 
-https://www.amazon.co.jp/exec/obidos/ASIN/B08XNKH8JJ/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B086MHSTVD/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B07Y22PDBG/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B08THM8YGY/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B07Y4ZZ7LQ/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B01JA8M75S/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B072C956D7/nop-me-22/
-https://www.amazon.co.jp/exec/obidos/ASIN/B084SZFVK1/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B08XNKH8JJ/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B086MHSTVD/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B07Y22PDBG/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B08THM8YGY/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B07Y4ZZ7LQ/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B01JA8M75S/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B072C956D7/nop-me-22/
+- https://www.amazon.co.jp/exec/obidos/ASIN/B084SZFVK1/nop-me-22/
 
 # Big Sur USB installer
 
